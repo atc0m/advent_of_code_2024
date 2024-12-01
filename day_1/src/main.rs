@@ -47,9 +47,9 @@ fn main() {
     println!("With text:\n{contents}");
 
     if part == "1" {
-        part1(file_path);
+        part1(&contents);
     } else if part == "2" {
-        part2(file_path);
+        part2(&contents);
     } else {
         println!("Invalid part number");
     }
