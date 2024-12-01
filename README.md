@@ -1,5 +1,5 @@
 # ADVENT OF CODE 2024
 
-Implemented in Rust for fun.
+Implemented in Rust, just for fun.
 
-Click [Here](https://adventofcode.com/2024)
+For Advent of Code click [here](https://adventofcode.com/2024)
